@@ -99,7 +99,7 @@ public class MemberViewController implements Initializable {
 		}
 		 else {
 			 tfID.setText("");
-			 tfPW.setText("");
+			 tfPW.setText(""); 
 		     tfName.setText("");
 //		     tfMobilePhone.setText("010");
 		 }
